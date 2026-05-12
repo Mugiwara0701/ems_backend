@@ -1,0 +1,11 @@
+{
+  "tables": {
+    "role": "role_table",
+    "employees": "employee_table",
+    "departments": "department_table",
+    "attendance": "attendance_table",
+    "payroll": "payroll_table",
+    "leave": "leave_table",
+    "tasks": "tasks_table"
+  }
+}
